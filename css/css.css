@@ -1,0 +1,78 @@
+.head1 {
+    background-color:rgb(255, 255, 255);
+    font-family: Sans-serif;
+    font-size: 50px;
+    text-align:center;
+    color:red;
+}
+
+.C{
+    color:rgb(195,0,47);
+}
+
+.S{
+    color:rgb(255,209,63);
+}
+
+.T{
+    color:rgb(195,0,47);
+}
+
+.U{
+    color:rgb(255,209,63);
+}
+
+.from{
+    size: 10px;
+    background-color: rgb(0, 0, 0);
+}
+
+.fieldset{
+    size: 10px;
+    background-color:rgb(255, 242, 214);
+}
+
+.head2 {
+    font-family: cursive ;
+    font-size: 20px;
+    text-align:left;
+    border:Double;
+    border-color:black;
+    color:rgb(255, 75, 75);
+}
+
+.pic1{
+    border-style:Solid;
+    border-color:rgb(0, 0, 0);
+}
+
+.N{
+    color:rgb(195,0,47);
+}
+
+.NN{
+    color:rgb(255,209,63);
+}
+
+.IG{
+    color:rgb(195,0,47);
+}
+
+.Tel{
+    color:rgb(255,209,63);
+}
+
+.share{
+    border:Solid;
+    border-color:red;
+}
+
+.video{
+    border-style:Solid;
+    border-color:rgb(0, 0, 0);
+}
+
+.N1{
+    font-family:cursive;
+    color:black;
+}
