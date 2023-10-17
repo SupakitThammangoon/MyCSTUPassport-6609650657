@@ -58,6 +58,10 @@
     color:rgb(195,0,47);
 }
 
+.LIG{
+    color:black;
+}
+
 .Tel{
     color:rgb(255,209,63);
 }
@@ -76,3 +80,22 @@
     font-family:cursive;
     color:black;
 }
+
+.Advisor{
+    border: 5px solid red;
+    background-color: white;
+    font-family: cursive;
+    font-size: 20px;
+    color:black;
+    margin-bottom: 1000px;
+    padding: 5px;
+ }
+ 
+ .Activity{
+     border: 5px solid red;
+     background-color: white;
+     font-family: cursive;
+     font-size: 20px;
+     color:black;
+     padding: 5px;
+ }
